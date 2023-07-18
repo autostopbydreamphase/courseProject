@@ -1,0 +1,29 @@
+D:\KurProject\KurProject\x64\Debug\KurProject.vcxproj.AssemblyReference.cache
+D:\KurProject\KurProject\x64\Debug\KurProject.vcxproj.SuggestedBindingRedirects.cache
+D:\KurProject\KurProject\x64\Debug\KurProject.MainForm.resources
+D:\KurProject\KurProject\x64\Debug\KurProject.vcxproj.GenerateResource.cache
+D:\KurProject\KurProject\x64\Debug\KurProject.LogForm.resources
+D:\KurProject\KurProject\x64\Debug\KurProject.SignForm.resources
+D:\KurProject\KurProject\x64\Debug\KurProject.Log2Form.resources
+C:\Users\kidis\OneDrive\Рабочий стол\KurProject\KurProject\x64\Debug\KurProject.vcxproj.AssemblyReference.cache
+C:\Users\kidis\OneDrive\Рабочий стол\KurProject\KurProject\x64\Debug\KurProject.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\kidis\OneDrive\Рабочий стол\KurProject\KurProject\x64\Debug\KurProject.Log2Form.resources
+C:\Users\kidis\OneDrive\Рабочий стол\KurProject\KurProject\x64\Debug\KurProject.LogForm.resources
+C:\Users\kidis\OneDrive\Рабочий стол\KurProject\KurProject\x64\Debug\KurProject.MainForm.resources
+C:\Users\kidis\OneDrive\Рабочий стол\KurProject\KurProject\x64\Debug\KurProject.SignForm.resources
+C:\Users\kidis\OneDrive\Рабочий стол\KurProject\KurProject\x64\Debug\KurProject.vcxproj.GenerateResource.cache
+C:\Users\kidis\OneDrive\Рабочий стол\KurProject\KurProject\x64\Debug\KurProject.FirstForm.resources
+C:\Users\kidis\OneDrive\Рабочий стол\KurProject\KurProject\x64\Debug\KurProject.Offers.resources
+C:\Users\kidis\OneDrive\Рабочий стол\KurProject\KurProject\x64\Debug\KurProject.vcxproj.CopyComplete
+C:\Users\kidis\OneDrive\Рабочий стол\KurProject\KurProject\x64\Debug\KurProject.AdminForm.resources
+C:\Users\kidis\OneDrive\Рабочий стол\Курсовой проект\KurProject\x64\Debug\KurProject.vcxproj.AssemblyReference.cache
+C:\Users\kidis\OneDrive\Рабочий стол\Курсовой проект\KurProject\x64\Debug\KurProject.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\kidis\OneDrive\Рабочий стол\Курсовой проект\KurProject\x64\Debug\KurProject.AdminForm.resources
+C:\Users\kidis\OneDrive\Рабочий стол\Курсовой проект\KurProject\x64\Debug\KurProject.FirstForm.resources
+C:\Users\kidis\OneDrive\Рабочий стол\Курсовой проект\KurProject\x64\Debug\KurProject.Log2Form.resources
+C:\Users\kidis\OneDrive\Рабочий стол\Курсовой проект\KurProject\x64\Debug\KurProject.LogForm.resources
+C:\Users\kidis\OneDrive\Рабочий стол\Курсовой проект\KurProject\x64\Debug\KurProject.MainForm.resources
+C:\Users\kidis\OneDrive\Рабочий стол\Курсовой проект\KurProject\x64\Debug\KurProject.Offers.resources
+C:\Users\kidis\OneDrive\Рабочий стол\Курсовой проект\KurProject\x64\Debug\KurProject.SignForm.resources
+C:\Users\kidis\OneDrive\Рабочий стол\Курсовой проект\KurProject\x64\Debug\KurProject.vcxproj.GenerateResource.cache
+C:\Users\kidis\OneDrive\Рабочий стол\Курсовой проект\KurProject\x64\Debug\KurProject.vcxproj.CopyComplete
